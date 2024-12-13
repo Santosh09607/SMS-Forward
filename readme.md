@@ -11,7 +11,7 @@ Calls can be forwarded to a single phone thanks to carriers' call forwarding ser
 
 2. Send messages
 ![image](https://user-images.githubusercontent.com/7480839/154650135-4f7f2274-4397-4077-bc70-b423ed195271.png)
-    You can even control the Android phone to send messages. Simply send message to the Android phone, with `to {receive number}:` (and a line break) prepended in message body, message content starting from the second line will be forwarded.
+    You can even control the Android phone to send messages. Simply send message to the Android phone, with `to {7991160293}:` (and a line break) prepended in message body, message content starting from the second line will be forwarded.
 
 ## Setup
 1. Pick up the Android phone, install this app with the `.apk` file downloaded from the [releases page](https://github.com/EnixCoda/SMS-Forward/releases). You can build the app from source to ensure safety.
